@@ -1,7 +1,7 @@
-platform :ios
+platform :ios, '15.0'
 
-target 'FastlaneCacheTest' do
+target 'YourApp' do
   use_frameworks!
+
   pod 'SnapKit'
 end
-
